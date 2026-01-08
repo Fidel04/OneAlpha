@@ -1,0 +1,76 @@
+aloo gobi
+aloo methi
+aloo mutter
+aloo paratha
+banana chips
+besan laddu
+bhindi masala
+biryani
+boondi laddu
+breakfast_burrito
+burger
+chana masala
+chapati
+chicken pizza
+chicken wings
+chicken_curry
+chikki
+chocolate_cake
+chole bhature
+club_sandwich
+dal khichdi
+donuts
+egg curry
+falooda
+fish curry
+french_fries
+fried_rice
+gajar ka halwa
+garlic bread
+garlic naan
+grilled sandwich
+gujhia
+gulab jamun
+hot_dog
+ice_cream
+idiyappam
+idli
+jalebi
+kaju katli
+kulfi
+lasagna
+margherita pizza
+masala dosa
+medu vada
+misal pav
+murukku
+mysore pak
+neer dosa
+omelette
+onion pakoda
+palak paneer
+pancakes
+paneer masala
+paneer pizza
+pani puri
+papdi chaat
+pav bhaji
+pepperoni pizza
+poha
+pongal
+puri bhaji
+rajma chawal
+ramen
+rasgulla
+rava dosa
+red_velvet_cake
+samosa
+seekh kebab
+set dosa
+sev puri
+steamed momo
+sushi
+tacos
+thali
+uttapam
+waffles
